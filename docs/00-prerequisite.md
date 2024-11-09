@@ -11,6 +11,7 @@
 - [ ] Have `cluster-admin` access to an OpenShift 4.14+ cluster
   - [Create an OpenShift 4.16+ cluster](/docs/info-create-openshift-cluster.md)
 - [ ] Open a `bash` terminal on your local machine
+  - [Have the OpenShift CLI (`oc`) installed](https://docs.openshift.com/container-platform/4.16/cli_reference/openshift_cli/getting-started-cli.html)
 - [ ] Git clone this repository
 
 ```sh
